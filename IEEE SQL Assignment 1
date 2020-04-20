@@ -3,27 +3,27 @@
 IEEE Online SQL Sessions Assignment 1
 
 
-1.	DBA stands for _________
+1.	DBA stands for _database administrator____
 
 2.	Structured Query Language (SQL) is used to
     a)	Delete data
-    b)	Create a table
+  ✔ b)	Create a table 
     c)	Insert data
     d)	Run php
 
-3.	"INSERT INTO" is the keyword used to insert data into tables. True or False?
+3.	"INSERT INTO" is the keyword used to insert data into tables. True or False? True
 
-4.	Which keyword is used to add conditions to your query?
+4.	Which keyword is used to add conditions to your query? select
 
 5.	Which statement is the right syntax to make a new database using command line?
-    a)	CREATE DATABASE people;
+  ✔ a)	CREATE DATABASE people;
     b)	MAKE DATASET people;
     c)	MAKE people;
     d)	CREATE people;
 
-6.	What command is used to retrieve all records from the table?
+6.	What command is used to retrieve all records from the table? drop table
 
-7.	Which keyword will cause the results of the query to be displayed in sorted order?
+7.	Which keyword will cause the results of the query to be displayed in sorted order? select
 
 
 
